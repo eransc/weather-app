@@ -1,0 +1,38 @@
+[
+  {
+    "key": "telaviv",
+    "text": "Tel Aviv",
+    "value": "tel aviv",
+    "coords": [34.7595000,32.0554000]
+  },
+  {
+    "key": "budapest",
+    "text": "Budapest",
+    "value": "budapest",
+    "coords": [19.0407578,47.4984056]
+  },
+  {
+    "key": "london",
+    "text": "London",
+    "value": "london",
+    "coords": [-0.1262362,51.5001524]
+  },
+  {
+    "key": "newyork",
+    "text": "New York",
+    "value": "new york",
+    "coords": [-73.9869510,40.7560540]
+  },
+  {
+    "key": "paris",
+    "text": "Paris",
+    "value": "paris",
+    "coords": [2.3509871,48.8566667]
+  },
+  {
+    "key": "tokyo",
+    "text": "Tokyo",
+    "value": "tokyo",
+    "coords": [34.7595000,32.0554000]
+  }
+]
